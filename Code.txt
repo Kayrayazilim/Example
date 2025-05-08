@@ -7,3 +7,5 @@ public void butonabasmak()
     yazi.text = "BABAPRO";
 
 }
+
+YEPISYENI SISKO YAZI
