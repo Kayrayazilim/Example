@@ -7,17 +7,3 @@ public void butonabasmak()
     yazi.text = "BABAPRO";
 
 }
-
-
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor auctor malesuada. Curabitur volutpat metus dolor, vel vehicula enim blandit id. Vivamus vitae leo eu ipsum vulputate consequat. Vivamus lobortis dolor sed metus elementum posuere. Nam felis nibh, ultricies eget sapien at, convallis maximus ante. Mauris pulvinar accumsan est, vitae fermentum leo malesuada sit amet. Praesent bibendum mauris id malesuada dictum. Phasellus imperdiet ex ac erat mollis tempor.
-
-Nunc vel posuere magna. Sed vitae risus sem. Ut et maximus odio. Aliquam ut ante imperdiet velit tristique aliquam. Duis eu pretium elit. Suspendisse vitae laoreet massa. In a mattis nisi, sit amet mattis ipsum. Nam non efficitur nisl. Nunc pretium orci eget elementum maximus. Etiam non tellus pellentesque, vestibulum nisl at, fermentum leo. Fusce lectus arcu, euismod vitae malesuada vitae, laoreet in metus. Morbi sollicitudin sit amet risus sit amet dictum. Sed luctus augue sit amet justo fermentum rhoncus. Duis maximus lacus vel ex accumsan tincidunt. Praesent vel euismod elit.
-
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras at turpis ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc nec malesuada nulla. In quis eros eget dui tincidunt ornare. Nunc congue magna et ligula vestibulum facilisis. Curabitur non placerat felis. Sed semper ligula nec sem dignissim lobortis.
-
-Fusce consequat imperdiet dolor sed posuere. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In tincidunt odio consequat orci maximus tempor. Vivamus luctus mi nec malesuada condimentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla facilisi. Vestibulum dictum massa non diam molestie dapibus. Donec faucibus consectetur enim sit amet vulputate. Phasellus non viverra tortor. Vivamus varius, magna vehicula molestie dictum, mauris ex interdum quam, sed egestas tellus ante sit amet dolor. Quisque ut egestas nisl, quis bibendum tellus. Nullam ex urna, euismod id rhoncus at, porttitor malesuada arcu. Aliquam accumsan tincidunt mi cursus accumsan. Praesent at condimentum ex. Aliquam molestie tempor tellus. In lorem tortor, ultricies et lacus ac, volutpat posuere ante.
-
-Duis egestas ante non felis hendrerit, quis faucibus neque elementum. Duis porttitor blandit varius. Nulla posuere, dolor eget elementum semper, neque justo porttitor tortor, vitae viverra sem erat nec turpis. Mauris quis finibus ante. Morbi sollicitudin, neque ut porta pharetra, odio nunc efficitur nisi, quis vulputate lectus orci ac neque. Pellentesque lobortis nibh quis ante tempor, ut iaculis erat venenatis. Aliquam vitae mi a ligula hendrerit pharetra eget eget nisi. Mauris dignissim dui quis neque interdum, eu euismod tortor elementum. Nam vitae sem id diam rhoncus commodo. Fusce consequat ac quam in efficitur.
