@@ -1,0 +1,9 @@
+using TMPro;
+
+public TMPUGUI yazi;
+
+public void butonabasmak()
+{
+    yazi.text = "BABAPRO";
+
+}
